@@ -1,0 +1,28 @@
+.about{
+    margin-top: 60px;
+}
+.img{
+    height:85vh;
+    margin: 0 auto;
+    display:block;
+}
+p{
+    text-align: center;
+    
+}
+.link{
+    color:black;
+    border-radius: 15px;
+}
+.link:hover{
+    background-color: rgba(24, 29, 15, 0.651);
+    color:black !important;
+}
+
+
+.link:focus{
+    background-color:rgba(24, 29, 15, 0.651) !important;
+}
+.about{
+    background-color:rgba(235, 221, 221, 0.829);
+}
